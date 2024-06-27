@@ -1,0 +1,141 @@
+Question number,Question,language,Type,Categorie,LLM,answer,correctness,relevance,specificity
+1G,Was ist der Stellenwert von PRRT innerhalb GEP-NET ,german,general,therapy,human,laut ENETS und NCCN  Guidelines wird PRRT eingesetzt nach evorolimus,,,
+1E,What is the role of PRRT in GEP-NET?,english,general,therapy,human,"According to ENETS and NCCN guidelines, PRRT is used after evorolimus",,,
+2G,Für welche Indikationen ist PRRT zugelassen?,german,specific,therapy,human,PRRT ist für die Verwendung in G1 und G2 GE-NET zugelassen,,,
+2E,For which indication is PRRT approved?,english,specific,therapy,human,PRRT is approved for use in G1 and G2 GE-NET,,,
+3G,Welche Rolle spielt PRRT im chirurgischen Setting bei GEP-NET?,german,specific,therapy,human,Derzeit wird die PRRT in der neoadjuvanten Phase eingesetzt,,,
+3E,What is the place of using PRRT in the surgical setting in GEP-NET?,english,specific,therapy,human,Currently PRRT is used in neo-adjuvant setting,,,
+4G,Was ist Peptidrezeptor-Radionuklid-Therapie (PRRT)?,german,general,definition,human,Die Peptidrezeptor-Radionuklidtherapie (PRRT) ist eine sehr gezielte und wirksame Form der radiopharmazeutischen Therapie (RPT) mit minimalen Nebenwirkungen zur Behandlung von NETs mit einer Fülle (oder Überexpression) von Somatostatinrezeptoren,,,
+4E,What is Peptide Receptor Radionuclide Therapy (PRRT)?,english,general,definition,human,Peptide Receptor Radionuclide Therapy (PRRT) is a highly targeted and effective form of radiopharmaceutical therapy (RPT) with minimal side effects for treating NETs with an abundance (or overexpression) of somatostatin receptor,,,
+5G,Wie viele PRRT-Behandlungen kann man bekommen?,german,specific,therapy,human,Das gängigste Protokoll umfasst eine Serie von vier PRRT-Behandlungen mit 177Lu-DOTATATE im Abstand von etwa 8 Wochen,,,
+5E,How many PRRT treatments can you have,english,specific,therapy,human,The most common protocol includes a series of four PRRT treatments with 177Lu-DOTATATE spaced approximately 8 weeks apart,,,
+6G,Wie viel kostet eine Behandlung mit PRRT?,german,specific,cost,human,"Die Kosten einer PRRT-Behandlung können stark variieren und hängen von verschiedenen faktoren ab, wie z.B. Art und Stadium der Erkrankung, Dosierung der Strahlung, Anzahl der Therapien, Klinik und Krankenhaus, Land; In Deutschland liegen die Kosten einer PRRT-Behandlung durchschnittlich zwischen 20.000 und 50.000 Euro. Die Kosten für die PRRT werden in Deutschland i.d.R. von den Krankenkassen übernommen. Diese müssen jedoch vor Beginn der Therapie einen Kostenübernahmeantrag genehmigen. ",,,
+6E,How much does a PRRT treatment cost?,english,specific,cost,human,"The costs of PRRT treatment can vary greatly and depend on various factors, such as the type and stage of the disease, radiation dosage, number of therapies, clinic and hospital, country; in Germany, the average cost of PRRT treatment is between 20,000 and 50,000 euros. The costs for PRRT are generally covered by health insurance companies in Germany. However, they must approve an application for cost coverage before the therapy begins. ",,,
+7G,Welche Isotope werden für die Therapie und welche für die Diagnistik der PRRT eingesetzt?,german,specific,therapy,human,"Therapie: 177Lu-Dotatoc, 90Y-Dotatoc, 111In-DTPA.Octreotide; Diagnostik: 68Ga-Dotatoc, 111In-DTPA-Octreotide",,,
+7E,Which isotopes are used for therapy and diagnostics in PRRT?,english,specific,therapy,human,"Therapy: 177Lu-Dotatoc, 90Y-Dotatoc, 111In-DTPA.Octreotide; Diagnostics: 68Ga-Dotatoc, 111In-DTPA-Octreotide",,,
+8G,Ist der Einsatz von PRRT für den Patienten schädlich?,german,specific,side effects,human,"Die PRRT ist eine relativ sichere Therapie mit enem geringen Risiko von Nebenwirkungen. Das Risiko von Nebenwirkungen hängt von verschiedenen Faktoren ab, wie z.B. der Art und dem Stadium der Erkrankung, der Dosierung der Strahlung und der individuellen Gesundheitslage des Patienten. Vor der PRRT sollte ein ausführliches Gespräch mit einem Arzt über die möglichen Risiken und Nebenwirkungen erfolgen.",,,
+8E,Is PRRT harmful for the patient?,english,specific,side effects,human,"PRRT is a relatively safe therapy with a low risk of side effects. The risk of side effects depends on various factors, such as the type and stage of the disease, the dosage of radiation and the patient's individual health situation. A detailed discussion with a doctor about the possible risks and side effects should take place before PRRT.",,,
+9G,Ist die PRRT die Zukunft für metastasierende Krebspatienten?,german,general,therapy,human,"Ob die PRRT die Zukunft für metastasierende Krebspatienten ist, lässt sich zum jetzigen Zeitpunkt noch nicht abschließend sagen. Die PRRT ist eine vielversprechende Therapieoption mit einem hohen Potenzial, die Lebensqualität und das Überleben von Patienten mit metastasierenden NETs zu verbesern.",,,
+9E,Is PRRT the future for metastatic cancer patients?,english,general,therapy,human,Whether PRRT is the future for metastatic cancer patients cannot be said conclusively at this stage. PRRT is a promising treatment option with a high potential to improve the quality of life and survival of patients with metastatic NETs.,,,
+10G,"Was muss eine Klinik an Equipment haben, um eine PRRT durchführen zu können?",german,specific,therapy,human,"Die Durchführung einer PRRT erfordert eine umfangreiche Ausstattung (Applikationstechnik, Medizinische Geräte, wie PET/CT, Laborgeräte,...) und qualifiziertes Personal (Nuklearmediziner, Medizinisch-technische Radiologieassistenten, Physikdosiker). Die Kosten für die Ausstattung und den Betrieb einer PRRT-Einrichtung ist hoch. Die PRRT sollte nur in spezialisierten Zentren durchgeführt werden.",,,
+10E,What equipment does a clinic need to perform PRRT?,english,specific,therapy,human,"Performing a PRRT requires extensive equipment (application technology, medical devices such as PET/CT, laboratory equipment, etc.) and qualified personnel (nuclear medicine specialists, medical-technical radiology assistants, physicists). The cost of equipping and operating a PRRT facility is high. PRRT should only be performed in specialized centers.",,,
+11G,Welche Ärzte führen PRRT durch? Muss man dafür ein Nuklearmediziner sein?,german,specific,therapy,human,"Die PRRT wird in der Regel von Nuklearmediziner durchgeführt. Andere Ärzte, die PRRT durchführen können, sind Strahlentherapeuten und Onkologen. Die Durchführung der PRRT erfordert die erfolgreiche Fachkunde und Erfahrung, die Ausstattung und das qualifizierte Personal sowie die Zulassung durch die Behörden.",,,
+11E,Which doctors perform PRRT? Do you have to be a nuclear medicine physician?,english,specific,therapy,human,"PRRT is usually carried out by nuclear medicine specialists. Other doctors who can perform PRRT are radiotherapists and oncologists. The performance of PRRT requires successful specialist knowledge and experience, equipment and qualified personnel as well as approval by the authorities.",,,
+12G,Was sind die häufigsten Nebenwirkungen der PRRT?,german,general,side effects,human,"Übelkeit, Erbechen, Müdigkeit, Haarausfall, Durchfall, Bauchschmerzen, Kopfschmerzen, Schwindel, Hitzewallungen und Veränderungen der Blutwerte (z.B. Leukopenie, Thrombozytopenie)",,,
+12E,What are the most common side effects of PRRT?,english,general,side effects,human,"Nausea, vomiting, fatigue, hair loss, diarrhea, abdominal pain, headaches, dizziness, hot flashes and changes in blood values (e.g. leukopenia, thrombocytopenia)",,,
+13G,Was sind die Vorteile einer PRRT?,german,general,advantages of therapy,human,1. Selektive Targeting von Tumorzellen 2. Hohe Wirksamkeit 3. Geringes Nebenwirkungsprofil,,,
+13E,What are the benefits of PRRT?,english,general,advantages of therapy,human,1. selective targeting of tumor cells 2. high efficacy 3. low side effect profile,,,
+14G,Was sind Herausforderungen der PRRT?,german,general,challenges of therapy,human,1. Hohe Kosten 2. Zugang zu Therapiezentren (nur in spezialisierten Zentren angeboten) 3. Langzeiteffekte (noch nicht vollständig bekannt),,,
+14E,What are the challenges of PRRT?,english,general,challenges of therapy,human,1. high costs 2. access to therapy centers (only offered in specialized centers) 3. long-term effects (not yet fully known),,,
+15G,Was sind die wichtigsten inclusion/exclusion criteria der COMPETE Studie?,german,specific,study,human,"laut https://clinicaltrials.gov/study/NCT03049189 sind die Einschluss- und Ausschlusskriterien: 
+Einschlusskriterien:
+- Histologisch gesicherte Diagnose eines gut differenzierten neuroendokrinen Tumors nicht-funktionellen gastroenterischen Ursprungs (GE-NET) oder sowohl funktionellen als auch nicht-funktionellen pankreatischen Ursprungs (P-NET)
+- Messbare Erkrankung nach RECIST 1.1
+- Somatostatinrezeptor-positive (SSTR+) Erkrankung
+- Fortschreitende Erkrankung nach den Kriterien von RECIST 1.1, nachgewiesen durch zwei - morphologische Bildgebungsuntersuchungen mit demselben Bildgebungsverfahren (entweder CT oder MRT)
+
+Ausschlusskriterien:
+- Bekannte Überempfindlichkeit gegen Edotreotid oder Everolimus
+- Bekannte Überempfindlichkeit gegen DOTA, Lutetium-177 oder einen Hilfsstoff von Edotreotid oder Everolimus oder ein anderes Rapamycin-Derivat
+- Vorherige Exposition gegenüber einer Peptidrezeptor-Radionuklidtherapie (PRRT)
+- Vorherige Therapie mit mTor-Inhibitoren
+- Vorherige EFR (externe Feldbestrahlung) von GEP-NET-Läsionen innerhalb von 90 Tagen vor der Randomisierung oder Radioembolisationstherapie
+- Therapie mit einem Prüfpräparat und/oder Medizinprodukt innerhalb von 30 Tagen vor der Randomisierung
+- Indikation zur chirurgischen Läsionsentfernung mit kurativem Potenzial
+- Geplante alternative Therapie (für den Zeitraum der Studienteilnahme)
+- Schwere nicht-bösartige Erkrankung
+- Klinisch relevante Nieren-, Leber-, kardiovaskuläre oder hämatologische Organfunktionsstörungen, die die Sicherheit der Studienbehandlungen beeinträchtigen könnten
+- Schwangere oder stillende Frauen - Probanden, die nicht in der Lage sind, selbst eine sinnvolle Einwilligungserklärung abzugeben (z. B. mit gesetzlichem Vormund bei psychischen Störungen) oder andere in diesem Sinne gefährdete Personengruppen (z. B. Personen in Heimen, inhaftierte Personen usw.).
+- Probanden, die nicht in der Lage sind, selbst eine sinnvolle Einwilligungserklärung abzugeben (z. B. mit gesetzlichem Vormund bei psychischen Störungen) oder andere in diesem Sinne gefährdete Personengruppen (z. B. Personen in Heimen, inhaftierte Personen usw.).",,,
+15E,What are the most important inclusion/exclusion criteria of the COMPETE trial?,english,specific,study,human,"according to https://clinicaltrials.gov/study/NCT03049189 are the inclusion and exclusion criteria: 
+Inclusion criteria:
+- Histologically confirmed diagnosis of a well-differentiated neuroendocrine tumor of non-functional gastroenteric origin (GE-NET) or both functional and non-functional pancreatic origin (P-NET)
+- Measurable disease according to RECIST 1.1
+- Somatostatin receptor-positive (SSTR+) disease
+- Progressive disease according to RECIST 1.1 criteria, demonstrated by two - morphologic imaging studies using the same imaging modality (either CT or MRI)
+
+Exclusion criteria:
+- Known hypersensitivity to edotreotide or everolimus
+- Known hypersensitivity to DOTA, lutetium-177 or an excipient of edotreotide or everolimus or another rapamycin derivative
+- Previous exposure to peptide receptor radionuclide therapy (PRRT)
+- Previous therapy with mTor inhibitors
+- Prior EFR (external field radiation) of GEP-NET lesions within 90 days prior to randomization or radioembolization therapy
+- Therapy with an investigational drug and/or medical device within 30 days prior to randomization
+- Indication for surgical lesion removal with curative potential
+- Planned alternative therapy (for the period of study participation)
+- Severe non-malignant disease
+- Clinically relevant renal, hepatic, cardiovascular or hematologic organ dysfunction that could affect the safety of study treatments
+- Pregnant or breastfeeding women - Subjects who are unable to provide meaningful informed consent themselves (e.g. with legal guardian in case of mental disorders) or other vulnerable groups in this sense (e.g. persons in institutions, incarcerated persons, etc.).
+- Subjects who are unable to give meaningful informed consent themselves (e.g. with a legal guardian in the case of mental disorders) or other vulnerable groups in this sense (e.g. people in institutions, people in prison, etc.).",,,
+16G,Was sind die wichtigsten inclusion/exclusion criteria der COMPOSE Studie?,german,specific,study,human,"laut https://www.clinicaltrials.gov/study/NCT04919226 
+
+Einschlusskriterien:
+- Patienten im Alter von ≥ 18 Jahren.
+- Histologisch bestätigte Diagnose von inoperablen, gut differenzierten gastroenteropankreatischen neuroendokrinen Tumoren (GEP-NETs). Messbarer Krankheitsherd nach RECIST v1.1 (Response evaluation criteria in solid tumors) mittels Kontrast-Computertomographie (CT) / Magnetresonanztomographie (MRT).
+- Somatostatinrezeptor-positive (SSTR+) Erkrankung.
+
+Ausschlusskriterien:
+- Bekannte Überempfindlichkeit gegen Lutetium 177Lu, Edotreotid, DOTA (Dodekan-Tetraessigsäure), einen der Vergleichsstoffe oder einen Hilfsstoff oder ein Derivat (z. B. Rapamycin).
+- Vorherige (Peptidrezeptor-Radionuklid-Therapie) PRRT.
+- Größere chirurgische Eingriffe innerhalb von 4 Wochen vor der Randomisierung in die Studie.
+- Therapie mit einem Prüfpräparat und/oder Medizinprodukt innerhalb von 30 Tagen oder 7 Halbwertszeiten (je nachdem, was länger ist) vor der Randomisierung.
+- Andere bekannte bösartige Erkrankungen.
+- Schwerwiegende nicht-bösartige Erkrankung.
+- Nieren-, Leber-, Herz-Kreislauf- oder hämatologische Organfunktionsstörungen, die die Sicherheit der Studienbehandlungen beeinträchtigen könnten.
+- Schwangere oder stillende Frauen.
+- Patienten, die nicht in der Lage sind, selbst eine sinnvolle Einwilligung nach Aufklärung zu erklären, oder andere gefährdete Personengruppen, die dies nicht können.",,,
+16E,What are the most important inclusion/exclusion criteria of the COMPOSE trial?,english,specific,study,human,"according to https://www.clinicaltrials.gov/study/NCT04919226 
+
+Inclusion Criteria:
+- Patients aged ≥ 18 years.
+- Histologically confirmed diagnosis of unresectable, well-differentiated GastroEnteroPancreatic NeuroEndocrine Tumors (GEP-NETs). measurable site of disease per RECIST v1.1 (Response evaluation criteria in solid tumors) using contrast computed tomography (CT) / magnetic resonance imaging (MRI).
+- Somatostatin receptor-positive (SSTR+) disease.
+
+Exclusion Criteria:
+- Known hypersensitivity to Lutetium 177Lu, edotreotide, DOTA (dodecane tetraacetic acid), any of the comparators, or any excipient or derivative (e.g. rapamycin).
+- Prior (Peptide Receptor Radionuclide Therapy) PRRT.
+- Any major surgery within 4 weeks prior to randomization in the trial.
+- Therapy with an investigational compound and/or medical device within 30 days or 7 half-life periods (whichever is longer) prior to randomization.
+- Other known malignancies.
+- Serious non-malignant disease.
+- Renal, hepatic, cardiovascular, or hematological organ dysfunction, potentially interfering with the safety of the trial treatments.
+- Pregnant or breastfeeding women.
+- Patients not able to declare meaningful informed consent on their own or any other vulnerable population to that.",,,
+17G,Welche radiopharmazeitische Medikamente sind von der FDA zugelassen?,german,specific,medication,human,siehe https://www.cardinalhealth.com/content/dam/corp/web/documents/fact-sheet/cardinal-health-fda-approved-radiopharmaceuticals.pdf,,,
+17E,Which radiopharmaceutical drugs are approved by the FDA?,english,specific,medication,human,see https://www.cardinalhealth.com/content/dam/corp/web/documents/fact-sheet/cardinal-health-fda-approved-radiopharmaceuticals.pdf,,,
+18G,In welcher Indikationen werden zur Zeit PSMA-targeting Radiopharmazeutika entwickelt?,german,specific,medication,human,Prostatakarzinom,,,
+18E,In which indications are PSMA-targeting radiopharmaceuticals currently being developed?,english,specific,medication,human,Prostate carcinoma,,,
+19G,Welche wichtigen Studien wurden in den letzten Jahren im Bereich der neuroendokrinen Tumore gestartet bzw. durchgeführt?,german,specific,study,human,"SUNNET-Studie, Radiant-Studie, Promid-Studie, NETTER-1 und Netter-2-Studie, Klarinetten-Studie, Spinett-Studie, Kabinett-Studie, Compete/Compose-Studie",,,
+19E,What are the major studies that have been initiated or conducted in the field of neuroendocrine tumors in recent years?,english,specific,study,human,"SUNNET trial, Radiant trials, Promid trial, NETTER-1 and Netter-2 trial, Clarinet trial, Spinet trial, Cabinet trial, Compete/Compose trial",,,
+20G,Was ist der Vergleichsarm in der Netter-1 Studie,german,specific,study,human,Hochdosiertes Octreotide LAR 60mg alle 4 Wochen,,,
+20E,What is the control arm in the Netter-1 trial?,english,specific,study,human,High-dose octreotide LAR 60mg every 4 weeks,,,
+21G,Was ist der Vergleichsarm in der Netter-2 Studie,german,specific,study,human,Hochdosiertes Octreotide LAR 60mg alle 4 Wochen,,,
+21E,What is the control arm in the Netter-2 trial?,english,specific,study,human,High-dose octreotide LAR 60mg every 4 weeks,,,
+22G,Was ist der Vergleichsarm in der COMPETE Studie,german,specific,study,human,Everolimus 10mg QD,,,
+22E,What is the control arm in the COMPETE trial?,english,specific,study,human,Everolimus 10mg QD,,,
+23G,Was ist der Vergleichsarm in der COMPOSE Studie,german,specific,study,human,"CAPTEM, Everolimus oder FOLFOX Therapie",,,
+23E,What is the control arm in the COMPOSE trial?,english,specific,study,human,"CAPTEM, Everolimus or FOLFOX therapy",,,
+24G,"Ist es möglich die verschiedenen Guidelines zu Management von neuroendokrinen Tumoren vergleichend darzustellen (ENETS, NANETS)? Wo sind hier die Unterschiede in der Therapie dieser Erkrankung? ",german,specific,guidelines,human,siehe Guidelines ENETS and NANETS: https://nanets.net/doclink/nanets-2023-guidelines-compendium/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYW5ldHMtMjAyMy1ndWlkZWxpbmVzLWNvbXBlbmRpdW0iLCJpYXQiOjE3MDUwNTU2MjksImV4cCI6MTcwNTE0MjAyOX0.vPJ8c-cxmppRX5V7Mc9tYMsGfdXLhHi8xXngpH0unX8; https://www.enets.org/guidelines.html,,,
+24E,"Is it possible to compare the different guidelines for the management of neuroendocrine tumors (ENETS, NANETS)? Where are the differences in the therapy of this disease?",english,specific,guidelines,human,"see Guidelines ENETS and NANETS: https://nanets.net/doclink/nanets-2023-guidelines-compendium/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYW5ldHMtMjAyMy1ndWlkZWxpbmVzLWNvbXBlbmRpdW0iLCJpYXQiOjE3MDUwNTU2MjksImV4cCI6MTcwNTE0MjAyOX0.vPJ8c-cxmppRX5V7Mc9tYMsGfdXLhHi8xXngpH0unX8; https://www.enets.org/guidelines.html",,,
+25G,In welchem Bereich werden PRRT Therapien in den ESMO Guidelines dargestellt?,german,specific,guidelines,human,siehe https://www.annalsofoncology.org/article/S0923-7534(20)36394-8/fulltext,,,
+25E,In which section are PRRT therapies presented in the ESMO Guidelines?,english,specific,guidelines,human,see https://www.annalsofoncology.org/article/S0923-7534(20)36394-8/fulltext,,,
+26G,Welche Arten von neuroendokrinen Tumoren werden in der COMPETE Studie untersucht?,german,specific,study,human,GE-NET (nicht-funktional) und P-Net (funktional und nicht-funktional),,,
+26E,What types of neuroendocrine tumors are investigated in the COMPETE trial?,english,specific,study,human,GE-NET (non-functional) and P-Net (functional and non-functional),,,
+27G,Was war das mediane PFS in der Netter-2 Studie?,german,specific,study,human,"22,8 Monate versus 8,5 Monate",,,
+27E,What was the median PFS in the Netter-2 trial?,english,specific,study,human,22.8 months versus 8.5 months,,,
+28G,In welchen Indikationen erforscht ITM Radiopharmazeutika?,german,specific,research,human,"Neuroendokrine Tumore, Glioblastom, Prostatakarzinom, Ovarialkarzinom, Osteosarkom",,,
+28E,In which indications does ITM research radiopharmaceuticals?,english,specific,research,human,"Neuroendocrine tumors, glioblastoma, prostate carcinoma, ovarian carcinoma, osteosarcoma",,,
+29G,Welche Isotope werden in den Studien von ITM verwendet?,german,general,research,human,"Actinium-225, Lutetium-177, Gallium-68, Flur-18",,,
+29E,Which isotopes are used in ITM's studies?,english,general,research,human,"Actinium-225, Lutetium-177, Gallium-68, Flur-18",,,
+30G,Wann wurde ITM gegründet?,german,general,company,human,2004,,,
+30E,When was ITM founded?	,english,general,company,human,2004,,,
+31G,Welche Produkte hat ITM bereits auf dem Markt?,german,general,company,human,"EndolucinBeta, TOCScan, iQS - Theranostics Synthesizer, Reagenziensatz Handbuch n.c.a. 177Lu Markierung, ",,,
+31E,Which products does ITM already have on the market?,english,general,company,human,"EndolucinBeta, TOCScan, iQS - Theranostics Synthesizer, Reagent Set Manual n.c.a. 177Lu Labeling, ",,,
+32G,An welchen Kongressen nimmt ITM teil?,german,general,company,human,https://www.itm-radiopharma.com/events/events-overview/,,,
+32E,Which congresses does ITM participate in?,english,general,company,human,https://www.itm-radiopharma.com/events/events-overview/,,,
+33G,Wie funktioniert PRRT/Wie ist das Medikament zusammengesetzt?,german,general,mechanism of action,human,"Radioisotop + Chelatbildner + Tumor-Zielmolekül -> es wird in den Blutkreislauf injiziert, bindet an SSTR-Rezeptoren und wird in die Zelle aufgenommen. Der Zerfall des radioaktiven Isotops führt zur Emission ionisierender Strahlung, die DNA-Brüche verursacht, welche die Zelle töten können.",,,
+33E,How does PRRT work/what is the drug made up of?,english,general,mechanism of action,human,"radioisotope + chelator + tumor-targeting molecule -> it is injected into the bloodstream, binds to SSTR-receptors, is internalized into the cell. The decay of the radioactive isotope leads to emission of ionizing radiation, causing DNA-breaks that may kill the cell",,,
+34G,Was ist die wichtigste Voraussetzung für die Behandlung mit PRRT?,german,general,requirements,human,SSTR+ NETs,,,
+34E,What is the major requirement for a patient to be treated with PRRT?,english,general,requirements,human,SSTR+ NETs,,,
+35G,Was ist Theranostik?	,german,general,definition,human,"Die Theranostik kombiniert Radionuklid-Bildgebung und Strahlentherapie, die auf bestimmte biologische Signalwege abzielt. Zu den für die theranostische Bildgebung verwendeten Technologien gehören Radiotracer, Kontrastmittel und Positronen-Emissions-Tomographie.",,,
+35E,What is theranostics?,english,general,definition,human,"theranostics combines radionuclide imaging and radiation therapy which targets specific biological pathways. Technologies used for theranostic imaging include radiotracers, contrast agents and positron emission tomography.",,,
